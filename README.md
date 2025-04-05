@@ -6,7 +6,7 @@
 
 ### 📚 Funcionalidades
 📌 Cadastro de nome, telefone e cidade <br>
-📌 Visibilidade das pessoas cadastradas
+📌 Visibilidade das pessoas cadastradas <br>
 📌 Possibilidade de limpar os dados no momento do cadastro caso não queira salvá-los <br>
 📌 Opções como: buscar determinado cadastro tanto pelo nome, como pelo código da pessoa inserida <br>
 📌 Possibilidade de apagar um cadastro do banco de dados caso não seja mais necessário <br>
