@@ -12,7 +12,7 @@
 📌 Possibilidade de apagar um cadastro do banco de dados caso não seja mais necessário <br>
 📌 Capacidade de alteração de um cadastro! Apenas clicando duas vezes dos dados que deseja alterar! <br>
 
-📌 Buca pelo CEP: inserir o CEP de determinada região da pessoa cadastrada para obter informações adicionais como: bairro e endereço próximos! <br>
+📌 Buca pelo CEP (com API ViaCEP): inserir o CEP de determinada região da pessoa cadastrada para obter informações adicionais como: bairro e endereço próximos! <br>
 
 📌 Possibilidade de gerar um pdf personalizado de qualquer cadastro que tenha sido realizado com apenas dois toques e depois clicando no menu 'Relatório'! <br>
 
